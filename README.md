@@ -21,9 +21,10 @@ As most of examples in the Jupyter Notebook tutorials use (Esys-Escript)[https:/
 
 ### Method 1
 If you're familiar with installing Python packages/modules via Anaconda, you may configure your computer (Linux OS only) from scratch following the steps below:
-1. First, download and install (Anaconda Python 3)[https://www.anaconda.com/distribution/#download-section]. 
-This should be as simple as downloading a bash script called something like "Anaconda3-2019.03-Linux-x86_64.sh" and then running the script in the terminal. i.e. using something like *sudo ./Anaconda3-2019.03-Linux-x86_64.sh*.
-2. Once Anaconda Python has been installed, you can install escript by running:
+1. First, download and install [Anaconda Python 3](https://www.anaconda.com/distribution/#download-section). 
+This should be as simple as downloading a bash script called something like "Anaconda3-2019.03-Linux-x86_64.sh" and then running the script in the terminal. i.e. using something like:  
+*sudo ./Anaconda3-2019.03-Linux-x86_64.sh*.
+2. Once Anaconda Python has been installed, you can install escript by running:  
 *conda install esys-escript -c aellery -c conda-forge*
 
 ### Method 2
