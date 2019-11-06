@@ -17,7 +17,7 @@ This course was firstly taught at [China University of Mining & Technlogy (Beiji
 
 ## How to use this tutorial
 
-As most of examples in the Jupyter Notebook tutorials use (Esys-Escript)[https://launchpad.net/escript-finley] package as its backend, users needs to download and install it correctly on their own computers.
+As most of examples in the Jupyter Notebook tutorials use [Esys-Escript](https://launchpad.net/escript-finley) package as its backend, users needs to download and install it correctly on their own computers.
 
 ### Method 1
 If you're familiar with installing Python packages/modules via Anaconda, you may configure your computer (Linux OS only) from scratch following the steps below:
